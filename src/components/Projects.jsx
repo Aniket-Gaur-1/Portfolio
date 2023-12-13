@@ -6,7 +6,7 @@ const Projects = () => {
   }
 
   function handleClick() {
-    window.location.href = "https://github.com/";
+    window.location.href = "https://github.com/Aniket-Gaur-1/To-Do-List";
   }
 
   return (
@@ -23,11 +23,14 @@ const Projects = () => {
                 className="project-img"
               />
             </div>
-            <h2 className="experience-sub-title project-title">Project One</h2>
+            <h2 className="experience-sub-title project-title">Chatroom</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={handleClick}
+                onClick={() => {
+                  window.location.href =
+                    "https://github.com/Aniket-Gaur-1/Chatroom";
+                }}
               >
                 Github
               </button>
@@ -47,11 +50,14 @@ const Projects = () => {
                 className="project-img"
               />
             </div>
-            <h2 className="experience-sub-title project-title">Project Two</h2>
+            <h2 className="experience-sub-title project-title">To Do List</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={handleClick}
+                onClick={() => {
+                  window.location.href =
+                    "https://github.com/Aniket-Gaur-1/To-Do-List";
+                }}
               >
                 Github
               </button>
@@ -66,7 +72,7 @@ const Projects = () => {
           <div className="details-container color-container">
             <div className="article-container">
               <img
-                src="./Images/project-3.png"
+                src="./Images/project_3.png"
                 alt="Project 3"
                 className="project-img"
               />
@@ -77,7 +83,10 @@ const Projects = () => {
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={handleClick}
+                onClick={() => {
+                  window.location.href =
+                    "https://github.com/Aniket-Gaur-1/Portfolio";
+                }}
               >
                 Github
               </button>
