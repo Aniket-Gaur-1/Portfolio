@@ -47,12 +47,13 @@ const About = () => {
           </div>
           <div className="text-container">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-              reprehenderit et laborum, rem, dolore eum quod voluptate
-              exercitationem nobis, nihil esse debitis maxime facere minus sint
-              delectus velit in eos quo officiis explicabo deleniti dignissimos.
-              Eligendi illum libero dolorum cum laboriosam corrupti quidem,
-              reiciendis ea magnam? Nulla, impedit fuga!
+              An aspiring front-end developer currently pursuing an MCA degree
+              and holding a BCA degree. Proficient in HTML, CSS, JavaScript, and
+              React.js, I'm passionate about crafting engaging web experiences.
+              Eager to learn and adapt to new technologies, I thrive on staying
+              updated with the latest trends in the ever-evolving tech world.
+              Outside of coding, I enjoy contributing to open-source projects
+              and exploring the cinematic realm through movies.
             </p>
           </div>
         </div>

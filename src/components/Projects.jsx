@@ -5,10 +5,6 @@ const Projects = () => {
     window.location.href = "./#contact";
   }
 
-  function handleClick() {
-    window.location.href = "https://github.com/Aniket-Gaur-1/To-Do-List";
-  }
-
   return (
     <section id="projects">
       <p className="section__text__p1">Browse My Recent</p>
@@ -36,7 +32,9 @@ const Projects = () => {
               </button>
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={handleClick}
+                onClick={() => {
+                  window.location.href = "https://chatroom-a14a6.web.app/";
+                }}
               >
                 Live Demo
               </button>
@@ -63,7 +61,10 @@ const Projects = () => {
               </button>
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={handleClick}
+                onClick={() => {
+                  window.location.href =
+                    "https://to-do-list-3e180.firebaseapp.com/";
+                }}
               >
                 Live Demo
               </button>
@@ -92,7 +93,10 @@ const Projects = () => {
               </button>
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={handleClick}
+                onClick={() => {
+                  window.location.href =
+                    "https://portfolio-51c68.firebaseapp.com/";
+                }}
               >
                 Live Demo
               </button>

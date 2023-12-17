@@ -31,13 +31,18 @@ const Profile = () => {
             src="./Images/linkedin.png"
             alt="My LinkedIn profile"
             className="icon"
-            onclick="location.href='https://linkedin.com/'"
+            onClick={() => {
+              window.location.href =
+                "https://www.linkedin.com/in/aniket-gaur-/";
+            }}
           />
           <img
             src="./Images/github.png"
             alt="My Github profile"
             className="icon"
-            onclick="location.href='https://github.com/'"
+            onClick={() => {
+              window.location.href = "https://github.com/Aniket-Gaur-1";
+            }}
           />
         </div>
       </div>

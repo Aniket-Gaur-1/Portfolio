@@ -10,7 +10,7 @@ import Projects from "./components/Projects";
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
       <Profile />
       <About />
@@ -18,7 +18,7 @@ function App() {
       <Projects />
       <Contact />
       <Footer />
-    </div>
+    </>
   );
 }
 
