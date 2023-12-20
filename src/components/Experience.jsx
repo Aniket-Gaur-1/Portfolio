@@ -21,7 +21,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>HTML</h3>
-                  <p>Intermediate</p>
                 </div>
               </article>
               <article>
@@ -32,7 +31,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>CSS</h3>
-                  <p>Intermediate</p>
                 </div>
               </article>
 
@@ -44,7 +42,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>JavaScript</h3>
-                  <p>Intermediate</p>
                 </div>
               </article>
               <article>
@@ -55,7 +52,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>React Js</h3>
-                  <p>Intermediate</p>
                 </div>
               </article>
             </div>
@@ -71,7 +67,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>Git</h3>
-                  <p>Basic</p>
                 </div>
               </article>
             </div>

@@ -12,7 +12,7 @@ const About = () => {
       <div className="section-container">
         <div className="section__pic-container">
           <img
-            src="./Images/about-pic.png"
+            src="./Images/about-img.png"
             alt="Profile picture"
             className="about-pic"
           />

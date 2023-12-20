@@ -2,7 +2,7 @@ import React from "react";
 
 const Profile = () => {
   function handleClick() {
-    window.open("./Images/resume-example.pdf");
+    window.open("./Images/Aniket_Resume.docx");
   }
 
   function handleChange() {
@@ -12,7 +12,7 @@ const Profile = () => {
   return (
     <section id="profile">
       <div className="section__pic-container">
-        <img src="./Images/profile-pic.png" alt="Aniket picture" />
+        <img src="./Images/profile-pic-1.png" alt="Aniket picture" />
       </div>
       <div className="section__text">
         <p className="section__text__p1">Hello, I'm</p>
