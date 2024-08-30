@@ -69,6 +69,47 @@ const Experience = () => {
                   <h3>Git</h3>
                 </div>
               </article>
+              <article>
+                <img
+                  src="./Images/checkmark.png"
+                  alt="Experience icon"
+                  className="icon"
+                />
+                <div>
+                  <h3>Node Js</h3>
+                </div>
+              </article>
+
+              <article>
+                <img
+                  src="./Images/checkmark.png"
+                  alt="Experience icon"
+                  className="icon"
+                />
+                <div>
+                  <h3>Express js</h3>
+                </div>
+              </article>
+              <article>
+                <img
+                  src="./Images/checkmark.png"
+                  alt="Experience icon"
+                  className="icon"
+                />
+                <div>
+                  <h3>Mongo DB</h3>
+                </div>
+              </article>
+              <article>
+                <img
+                  src="./Images/checkmark.png"
+                  alt="Experience icon"
+                  className="icon"
+                />
+                <div>
+                  <h3>Next Js</h3>
+                </div>
+              </article>
             </div>
           </div>
         </div>
