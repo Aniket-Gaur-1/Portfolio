@@ -2,7 +2,7 @@ import React from "react";
 
 const Profile = () => {
   function handleClick() {
-    window.open("./Images/Aniket_Resume.pdf");
+    window.open("./Images/Aniket Resume.pdf");
   }
 
   function handleChange() {
