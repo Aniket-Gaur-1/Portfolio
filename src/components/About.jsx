@@ -27,8 +27,8 @@ const About = () => {
               />
               <h3>Experience</h3>
               <p>
-                1+ years <br />
-                Frontend Development
+                2+ years <br />
+                Full Stack Development
               </p>
             </div>
             <div className="details-container">
@@ -47,9 +47,9 @@ const About = () => {
           </div>
           <div className="text-container">
             <p>
-              An aspiring front-end developer currently pursuing an MCA degree
-              and holding a BCA degree. Proficient in HTML, CSS, JavaScript, and
-              React.js, I'm passionate about crafting engaging web experiences.
+              An aspiring full stack developer currently pursuing an MCA degree
+              and holding a BCA degree. Proficient in HTML, CSS, JavaScript, Node.js , Express.js , MongoDB, React.js and
+              Next.js, I'm passionate about crafting engaging web experiences.
               Eager to learn and adapt to new technologies, I thrive on staying
               updated with the latest trends in the ever-evolving tech world.
               Outside of coding, I enjoy contributing to open-source projects
